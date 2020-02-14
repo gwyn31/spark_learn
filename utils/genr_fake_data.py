@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# 向MySQL中插入假数据用于练习PySpark
 
 from time import time
 from datetime import datetime
